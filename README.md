@@ -1,7 +1,7 @@
  # ✨ Développeur JS <br/> Fullstack
 #### Ma stack :   
 
-<img src="techno.png" width="535" alt="HTML 5, CSS, JS, React, React Native, Redux, Bootstrap, Node.js, Express, MongoDB">
+<img src="stack.png" width="535" alt="HTML 5, CSS 3, JS, Angular, Firebase, Bootstrap, Node.js, Express, MongoDB, JQUERY, PWA">
 </br>
 
 🎓 Diplôme RNCP niv 6 en développement web obtenu à [Ifocop 🚀](https://www.ifocop.fr/formations-metiers/web-digital/formation-developpeur-full-stack-js/)  
@@ -14,5 +14,5 @@
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/m%C3%A9lanie-vandervaeren/">
-<img src="Linkedin-logo.png" width="100" alt="badge LinkedIn">
+<img src="linkedin.png" width="100" alt="badge LinkedIn">
 </a>
